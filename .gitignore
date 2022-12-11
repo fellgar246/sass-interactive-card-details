@@ -1,0 +1,6 @@
+*.sketch
+*.fig
+*.xd
+.vscode
+.DS_Store
+.prettierignore
